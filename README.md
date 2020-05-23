@@ -2,10 +2,13 @@
 
 # COVID19 Resource Finder
 
-Data source : https://api.covid19india.org/resources/resources.json
 Tech stack used : JavaScript, HTML, CSS, ReactJS and Material-UI
-Link : https://sfhoi.csb.app/
-Current functionalities :
+
+Data source : https://api.covid19india.org/resources/resources.json
+
+Hosted at : https://sfhoi.csb.app/
+
+Current functionalities (deployed during the 4hr Hackathon) :
 
 1. Ability to filter out the available resources on the basis of cities
 2. Grouping up of available resources into separate categories
