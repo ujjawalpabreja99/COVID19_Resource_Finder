@@ -1,6 +1,6 @@
-## Hack@Home by Atlassian [GRAND FINALE]
+# Hack@Home by Atlassian [GRAND FINALE]
 
-# COVID19 Resource Finder
+## COVID19 Resource Finder
 
 Tech stack used : JavaScript, HTML, CSS, ReactJS and Material-UI
 
