@@ -13,3 +13,7 @@ Current functionalities (deployed during the 4hr Hackathon) :
 1. Ability to filter out the available resources on the basis of cities
 2. Grouping up of available resources into separate categories
 3. Enlisting the details so as to follow up on each and every resource to the core
+
+Todo : 
+1. Filtering resources as per GPS location of the user.
+2. Providing search engine facility for precise filtering of resources.
